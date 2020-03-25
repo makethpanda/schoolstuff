@@ -18,7 +18,7 @@ for weee in range(height):
     for weeee in range(width):
         r,g,b = image_data[weee,weeee]
         #filter the green
-        #image_data[weee,weeee] = r,0,b
+        #image_data[weee,weeee] = 0,g,0
         #switcheroo.exe ||| switches the coulours around 
         image_data[weee,weeee] = g,b,r
 
