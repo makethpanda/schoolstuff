@@ -2,7 +2,7 @@
 
 all the stuff for SNT for school
 
-##index
+## index
 
 imagestuff = image modifier, colour filter + switcheroo
 
