@@ -1,6 +1,19 @@
 # repo pour travail scolaire
 
-## physique chimie
+## index
+physiques chimie:
+fonction-masse.py
+formules variés 
+Snt:
+imagestuff
+image modifier, colour filter + switcheroo
+
+
+
+
+
+
+# physique chimie
 
 ## comment utiliser fonctions-masse.py
 
@@ -94,14 +107,10 @@ données: 2.16  g/cm^3 10.0 grammes
 relation: volume a trouver = nbr de grammes a trouver/masse volumique
 application: 10.0 / 2.16 = volume a trouver
 resultat: 4.62962962962963 cm3
-
+------------------------------------------
 # snt
 
 all the stuff for SNT for school
-
-## index
-
-imagestuff = image modifier, colour filter + switcheroo
 
 ## how to download
 ### 1. click "clone or download"
