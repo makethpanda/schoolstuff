@@ -66,47 +66,90 @@ z = le numéro du calcul a effectuer (les multiples fonctions
 
 #### exemples
 1----------------------fonction(10,0.1,1)
+
 réponse du programme:
+
 question: trouver Cm
+
 données: 10.0 g soluté 0.1 solvant
+
 relation: m/v
+
 application numérique: 10 / 0.1
+
 resultat: 100.0g/l
+
 2---------------------fonction(10,0.05,2)
+
 réponse du programme:
+
 question: trouver la masse de x dans un contenu y
+
 données: 10.0 g/l 0.05 diole
+
 relation: m = Cm x v
+
 application  10.0 x 0.05 = 0.5
+
 resultat: 0.5 g
+
 3--------------------fonction(0.125,5,3)
+
 réponse du programme
+
 question: calculer le volume qu'il fait prélever d'une solution pour avair xg de soluté
+
 données  0.125 g de soluté que l'on veut trouver et  5.0 concentration
+
 relation: m/Cm = v
+
 application:  0.125 / 5.0
+
 résultat:  0.025 l
+
 4--------------------fonction(4.32,2,4)
+
 réponse du programme
+
 question: calculer masse volumique par rapport a la masse (x) et le volume (y)
+
 données: 4.32 masse en gramme et  2.0 volume
+
 relation: p = m x g
+
 application: 4.32 x 2.0  = p
+
 resultat: 2.16 g/cm^3
+
 5-------------------fonction(2.16,1,5)
+
 réponse du programme
+
 question: calculer la masse qu'il faut peser pour obtenir y sachant que masse volumique = x
+
 données: 2.16 masse volumique (g/cm^3) et  1.0 m^3 a trouver
+
 relation: Mv = m/v donc m = Mv*v
+
 application: 2.16 x 1.0 m^3 (x100) = masse
+
 resultats: 216.0 kg/m^3
+
 6------------------fonction(2.16, 10, 6)
+
 réponse du programme
+
 question: alculer le volume en cm3 de quelque chose ayant x masse volumique en g/cm^3qu'il faut mesurer pour obtenir y g 
+
 données: 2.16  g/cm^3 10.0 grammes 
+
 relation: volume a trouver = nbr de grammes a trouver/masse volumique
+
 application: 10.0 / 2.16 = volume a trouver
+
 resultat: 4.62962962962963 cm3
+
+
 ------------------------------------------
 # snt
 
