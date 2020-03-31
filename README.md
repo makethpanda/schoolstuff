@@ -29,15 +29,22 @@ ce sont des templates pour comment utiliser le programme.
 ##### 1. les multiples fonctions
 
 1- Calculer la concentration en masse d’une solution réalisée avec x g de [] dans une fiole de x mL.
+
 2- Calculer la masse de [] contenue dans une fiole de x mL sachant que la solution présente a une
 concentration en masse de x g/L.
+
 3- Calculer le volume qu’il faut prélever d’une solution  dont la concentration en masse vaut x g/L pour obtenir
 x g de sucre.
+
 4- une espece chimique possède une masse de x g pour un volume de x cm³ . Calculer sa masse volumique en g/cm³ .
+
 5- Calculer la masse de [] qu’il faut peser pour en obtenir x m³ sachant que sa masse volumique vaut
 x g/cm³ . 
+
 6- Calculer le volume en cm³ de [] qu’il faut mesurer pour en obtenir x g sachant que sa masse
 volumique est de x g/cm³ .
+
+
 #### 2. utiliser la fonction pour lancer le calcul
 #### fonction(x,y,z)
 x = la premiere information a donner, se réferer a la template de formule, donc pour la focntion 1 c'est le soluté en grammes
