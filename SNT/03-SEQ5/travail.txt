@@ -23,3 +23,56 @@ Latitude/longitude:	44° 51' 19.3" North,   0° 34' 17" West
 Altitude: 58 meters (190 feet)
 
 Place picard 33300 Bordeaux
+
+PARTIE 2
+
+1.Oui, il est possible de supprimer et/ou modifier les données exif; la méthode a utiliser dépends selon la 
+plate forme utilisée
+
+2.*
+
+
+sur android la méthode a suivre est très simple
+CAMERA
+>ouvrir l'application camera utilisée
+>naviguer vers ses paramètres
+>save location -> off
+
+3.*
+
+
+Photo avant réseau social: 
+-Heure de création
+-localisation
+-orientation du téléphone verticale
+-google
+-pixel 3a
+-software HDR+ 1.0.300173574zdh
+-aperture f/1.8
+-exposure 15/749
+ect...
+
+Photo sur instagram:
+code html pris depuis le site web d'Instagram
+<img alt="Photo by iimgonnadie on April 21, 2020. Aucune description de photo disponible." class="FFVAD" decoding="auto" sizes="480px" srcset="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/93816638_783139285555754_2332308265963226519_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=PACNwtpbN5YAX9rKRkB&amp;oh=e3a18daead84fbc386ce6555d3c4a6ca&amp;oe=5EC6F84F 640w,https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/93816638_783139285555754_2332308265963226519_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=PACNwtpbN5YAX9rKRkB&amp;oh=afb62811546b94ffe8f390cf40b2b626&amp;oe=5EC8DE4F 750w,https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/93816638_783139285555754_2332308265963226519_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=PACNwtpbN5YAX9rKRkB&amp;oh=64c2ab69668b07cade14de3167e2942e&amp;oe=5EC8BC39 1080w" src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/93816638_783139285555754_2332308265963226519_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=PACNwtpbN5YAX9rKRkB&amp;oh=64c2ab69668b07cade14de3167e2942e&amp;oe=5EC8BC39" style="object-fit: cover;">
+
+on peut remarquer que Instagram garde multiples copies de la photo de différentes calitées. 
+Nous allons comparer les métadonnées avant et apres le passage vers instagram sur l'image de plus grande qualitée:
+
+- localisation légèrement moin précise
+- orientation horizontale
+- marque de la caméra: unknown
+- modèle unknown
+- software unknown
+
+Instagram compresse et supprime la plupart des métadonnées de nos photos.
+
+4.*
+
+
+Vu que la photo d'origine garde ses données EXIF, on peut en déduir que les données EXIF sont supprimés pendant
+ou après l'upload de la photo vers instagram, Si les données ne sont supprimés qu'après l'upload alors cela 
+peut etre problématique a cause du fait qu'instagram peut collecter ses informations afin de mieux étaiblir notre
+profil pour leur collection de nos données privées.
+
+5. regarder fichier python
