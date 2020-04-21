@@ -1,0 +1,25 @@
+
+1.MATERIEL
+
+Camera:	Samsung GT-I9195
+Lens:	3.7 mm
+(Max aperture f/2.6) (shot wide open)
+Exposure:	Auto exposure, Aperture-priority AE, 1 sec, f/2.6, ISO 50
+Flash:	none
+
+2.DATE
+
+February 23, 2019   4:31:51PM (timezone not specified)
+
+3.LOCALISATION
+
+No GPS information was found...
+
+
+4. LOCALISATION STATUE DE LA LIBERTE
+
+Latitude/longitude:	44° 51' 19.3" North,   0° 34' 17" West
+( 44.855370, -0.571376 )
+Altitude: 58 meters (190 feet)
+
+Place picard 33300 Bordeaux

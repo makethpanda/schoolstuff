@@ -37,7 +37,7 @@ def fonction(x,y,z):
         print("relation: m/Cm = v")
         resultat3 = x/y
         print("application: ",x, "/",y)
-        print("résultat: ", resultat3)
+        print("résultat: ", resultat3, "l")
     if z ==4:
         print("question: calculer masse volumique par rapport a la masse (x) et le volume (y)")
         print ("données:",x, "masse en gramme et ",y,"volume")
@@ -49,8 +49,8 @@ def fonction(x,y,z):
         print ("question: calculer la masse qu'il faut peser pour obtenir y sachant que masse volumique = x")
         print("données:",x, "masse volumique (g/cm^3) et ",y, "m^3 a trouver")
         print("relation: Mv = m/v donc m = Mv*v")
-        print("application:",x, "x", y,"= masse")
-        resultat5 = x*100
+        print("application:",x, "x", y,"m^3 (x100) = masse")
+        resultat5 = x*y*100
         print("resultats:", resultat5, "kg/m^3")
     if z==6:
         print("question: alculer le volume en cm3 de quelque chose ayant x masse volumique en g/cm^3qu'il faut mesurer pour obtenir y g ")
