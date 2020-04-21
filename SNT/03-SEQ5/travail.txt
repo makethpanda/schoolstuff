@@ -1,4 +1,9 @@
 
+les métadonnées exif contienent essentiellement des informations sur le materiel; donc:
+un ensemble d’informations sur le boitier
+un ensemble d’informations sur l’objectif
+un ensemble d’informations sur la prise de vue
+un ensemble d'informations espace/temps (date, heure, localisations
 1.MATERIEL
 
 Camera:	Samsung GT-I9195
